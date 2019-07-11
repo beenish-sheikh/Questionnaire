@@ -1,0 +1,51 @@
+body {
+    background-color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0% 10% 10% 10%;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+h3 {
+    color: brown;
+}
+
+#q1 {
+    color: blue;
+}
+
+#q2 {
+    color: green;
+}
+
+#q3 {
+    color: purple;
+}
+
+#q4 {
+    color: goldenrod;
+}
+
+#q5 {
+    color: red;
+}
+
+button {
+    margin-left: 5em;
+    font-size: 2em;
+    padding: 10px 80px;
+    color: azure;
+    background-color: brown;
+    border: 1px solid blue;
+    border-radius: 5px 5px 5px 5px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+button hover {
+    background-color: blue;
+    cursor: pointer;
+}
